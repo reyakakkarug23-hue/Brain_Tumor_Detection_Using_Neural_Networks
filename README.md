@@ -124,6 +124,3 @@ jupyter notebook
 * Improve accuracy using transfer learning (ResNet, EfficientNet)
 * Deploy as a web application
 * Extend to segmentation-based tumor localization
-
-
-This project is for **educational and research purpos
